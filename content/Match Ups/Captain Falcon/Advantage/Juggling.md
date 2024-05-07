@@ -1,0 +1,4 @@
+- Can bait out an airdodge by threatening a Uair and catch landing with a fair
+	- ![[Catching Falcon Landing with Fair.gif]]
+- Usp after Uair is great for damage and finishing a juggle as it usually keeps you in advantage
+	- ![[Uair to Usp Falcon Juggle.gif]]

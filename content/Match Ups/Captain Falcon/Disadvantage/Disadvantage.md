@@ -1,0 +1,3 @@
+- [[Match Ups/Captain Falcon/Disadvantage/Edge Guard|Edge Guard]]
+- [[Match Ups/Captain Falcon/Disadvantage/Juggling|Juggling]]
+- [[Recovery]]

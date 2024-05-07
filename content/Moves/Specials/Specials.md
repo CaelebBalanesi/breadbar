@@ -1,0 +1,4 @@
+- [[Down Special]]
+- [[Neutral Special]]
+- [[Side Special]]
+- [[Up Special]]

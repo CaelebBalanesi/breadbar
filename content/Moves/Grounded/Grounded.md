@@ -1,0 +1,8 @@
+- [[Dash Attack]]
+- [[Down Smash]]
+- [[Down Tilt]]
+- [[Forward Tilt]]
+- [[Forward Smash]]
+- [[Jab]]
+- [[Up Smash]]
+- [[Up Tilt]]

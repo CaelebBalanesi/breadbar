@@ -1,0 +1,10 @@
+- Falcons Uair is an extremely strong juggle tool
+	- Be aware of different follow ups he can do
+	- Air dodges can be read with a sweet knee
+		- ![[Uair Airdodge read w knee.gif]]
+- Falcon has a lot of tools to catch landings
+	- Side Special
+		- ![[Falcon Side Special to catch landing.gif]]
+	- Dash Attack
+		- ![[Falcon catching landing with DA.gif]]
+- 

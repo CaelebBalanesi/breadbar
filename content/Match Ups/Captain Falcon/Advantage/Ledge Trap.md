@@ -1,0 +1,2 @@
+- Ledge drop rising Nair can be caught with a reverse Usp OOS
+	- ![[Rising Nair punish.gif]]
