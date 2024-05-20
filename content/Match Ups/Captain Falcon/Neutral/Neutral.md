@@ -1,5 +1,20 @@
 - [[Shield Pressure]]
+- [[Gameplan]]
+- Neutral is going to feel like you are keeping falcon away the whole match and that's it
+	- Falcon wants to get in and feel like he can bully you
+	- You need to make him respect your space
+- Don't shield too much
+	- He can use Usp which does 22% and is a command grab
+	- A lot of his moves are very safe on your shield
+	- His grab gives him a huge opening
+- Falcons speed also gives him the ability to catch your landing if you become predictable
+	- SH FF Landing Fair should also be unpunishable but if you do the same thing every time he can punish you for it
+	- Can Spot Dodge, Jab, Nair, Shield, Ftilt after landing to mix it up
 - Retreating Fairs are good at catching Falcons approaches
 	- ![[Retreating Fair to catch approaches.gif]]
+- Focus on understanding when they go for stomps
+	- Important as Stomp > Knee is a extremely potent kill confirm
+	- Stomp is very safe move with a lot of mixups
+- Also focus on grabs as he gets a lot of value out of grabs
 # Current Problems
 - 

@@ -32,10 +32,15 @@
 - Dash Attack
 	- Works up to 25%
 	- FF after the last hit
+- Bair
+- Fair
+- Ftilt
+- Nair
+- Up Special
 ### NQ Combos into
-- Grab
+- **Grab**
 	- Works until 64%
-- Dash Attack
+- **Dash Attack**
 	- Works until around 130% for most characters
 	- 19.6% dmg
 	- Their best DI is Out
@@ -50,6 +55,11 @@
 		- Doesn't get into platform until around 10%
 ### IDJ Nair into
 - 
+### DD Nair
+- Grab
+	- Not true to hitstun
+- Jab
+	- Not true to hitstun
 ### Kill Confirms
 - NQ > Runoff Fair
 	- Kills at like 75% on ledge

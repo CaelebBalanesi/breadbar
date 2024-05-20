@@ -2,6 +2,14 @@
 - 9f/10f Start Up
 - -35f On Shield
 - Arguably one of your best moves
+- Three Types of throws
+	- Before the throw portion it calculates the opponents %
+		- Below 50%
+			- Pre Spike
+		- Above 50%
+			- Post Spike
+		- If grounded
+			- Grounded throw
 - Triplat 50/50
 - Good OOS option and can be reversed
 	- Comes out frame 9
