@@ -1,2 +1,3 @@
 - [[Bread & Butters]]
+- [[Kill Confirm]]
 - [[Encyclopedia]]

@@ -1,2 +1,2 @@
 1. [[Captain Falcon]]
-2. 
+2. [[Duck Hunt]]

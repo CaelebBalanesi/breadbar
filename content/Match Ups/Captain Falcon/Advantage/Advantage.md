@@ -1,4 +1,4 @@
 - [[Match Ups/Captain Falcon/Advantage/Edge Guard|Edge Guard]]
 - [[Ledge Trap]]
 - [[Match Ups/Captain Falcon/Advantage/Juggling|Juggling]]
-- 
+- [[Tech Chasing]]

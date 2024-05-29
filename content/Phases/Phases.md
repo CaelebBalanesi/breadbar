@@ -1,0 +1,3 @@
+- [[Phases/Advantage/Advantage|Advantage]]
+- [[Phases/Disadvantage/Disadvantage|Disadvantage]]
+- [[Phases/Neutral/Neutral|Neutral]]

@@ -2,9 +2,11 @@
 title: Byleth
 ---
 - [[Moves]]
+- [[Practice]]
 - [[Combos]]
 - [[Tech]]
 - [[Phases]]
 - [[Match Ups]]
 - [[Resources]]
+- [[Top 8s]]
 - [[Clips]]

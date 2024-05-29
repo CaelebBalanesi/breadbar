@@ -1,8 +1,8 @@
-1. Win Condition
+- Win Condition
 	- Edge Guarding
-2. Lose Condition
+- Lose Condition
 	- Combos
 	- Edge Guarding
-3. [[Neutral]]
-4. [[Advantage]]
-5. [[Disadvantage]]
+- [[Neutral]]
+- [[Advantage]]
+- [[Disadvantage]]
